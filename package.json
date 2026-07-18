@@ -1,11 +1,7 @@
 {
   "name": "madara-ai",
   "version": "1.0.0",
-  "description": "Madara AI",
-  "main": "api/chat.js",
-  "scripts": {
-    "dev": "vercel dev"
-  },
+  "private": true,
   "dependencies": {
     "axios": "^1.7.2"
   }
